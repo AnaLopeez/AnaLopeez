@@ -1,16 +1,29 @@
-### Hi there 👋
+#Bienvenidos
+## Perfil de Ana López
 
-<!--
-**AnaLopeez/AnaLopeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este texto utiliza el lenguaje **Marrkdown**
+Para hacer *parrafos* nuevos tengo que usar el ""enter""
 
-Here are some ideas to get you started:
+Con una sola, no hace párrafos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Listas y enumeraciones
+
+- Se hacen con el guión (+ espacio)
+- Para poner un asterisco, aquí en medio no pasa nada: *. se pone solo.
+- Pero si pongo otro, *, al estar separado por espacios no pasa nada.
+- Y si tengo que poner dos pegados a una palabra, ahí hay un problema. Usaremos \antes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
